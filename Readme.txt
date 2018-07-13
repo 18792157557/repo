@@ -10,3 +10,4 @@ six update
 seven modified
 eight checkout
 nine dev
+nine update dev
