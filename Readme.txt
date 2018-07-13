@@ -9,6 +9,7 @@ five update
 six update
 seven modified
 eight checkout
+nine dis
 Creating a new branch is quick & simple
 nine dii
 demo branch
