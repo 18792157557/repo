@@ -10,3 +10,4 @@ six update
 seven modified
 eight checkout
 nine master
+Creating a new branch is quick & simple
